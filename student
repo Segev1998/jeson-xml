@@ -1,0 +1,11 @@
+<class
+
+   <Student>
+       <name>Segev</name>
+       <grade name="math">100</grade>
+       <grade name="english>80</grade>
+       <grade name="software engineering">95</grade>
+       <grade name="history>80</grade>
+   </Student>
+
+</class>
